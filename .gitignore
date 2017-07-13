@@ -1,0 +1,4 @@
+# Git ignore
+bin/		# binary files
+goorm.manifest  # Gorrm IDE manifest files
+manifest.yml	# what it is?
