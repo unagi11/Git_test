@@ -13,6 +13,6 @@ int main(int argc, char* argv[]) {
 }
 
 void func(int& a, int& b) {
-	a = 10;
-	b = 20;
+	a = 20;
+	b = 10;
 }
